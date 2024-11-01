@@ -1,0 +1,7 @@
+{
+    "require": {
+        "intervention/image": "^2.7",
+        "mpdf/mpdf": "^8.1",
+        "endroid/qr-code": "^4.4"
+    }
+}
